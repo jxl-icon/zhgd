@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="112px" height="54px" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M 1 2  A 1 1 0 0 1 2 1 L 110 1  A 1 1 0 0 1 111 2 L 111 52  A 1 1 0 0 1 110 53 L 2 53  A 1 1 0 0 1 1 52 L 1 2  Z " fill-rule="nonzero" fill="#000000" stroke="none" fill-opacity="0.2" />
+  </g>
+</svg>
